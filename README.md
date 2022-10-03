@@ -6,13 +6,17 @@
 
 为了帮助更多的同学学习深度学习相关的知识，本文档整理了深度学习的必读论文、理论推导、实战教程，更多最新科研论文解读，关注FightingCV公众号。
 
-![](image/image_4yRBO-7aMr.png)
 
 由于精力有限，整理的资源可能并不全面，本着“**不要偷偷内卷，大家一起进步**”的原则，欢迎大家添加小助手微信（下方二维码，添加时备注【公司/学校+方向+ID】）进行反馈和资源分享，我会及时更新这个在线文档，大家一起“**人人为我，我为人人**”，一起共同学习！
 
-![](image/image_GiMaltSbVt.png)
 
 对于Attention机制感兴趣的同学，也欢迎关注我开源的Github项目：[https://github.com/xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch "https://github.com/xmu-xiaoma666/External-Attention-pytorch")，目前已收获了6.8K的star，欢迎大家使用\~
+
+
+| FightingCV公众号 | 小助手微信 （备注【**公司/学校+方向+ID**】）|
+:-------------------------:|:-------------------------:
+<img src='./image/FightingCV.jpg' width='200px'>  |  <img src='./image/xiaozhushou.jpg' width='200px'> 
+
 
 好了，废话不多说，开始今天的分享！
 
