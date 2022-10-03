@@ -27,11 +27,9 @@
 链接：[https://pan.baidu.com/s/1EhufiGeyB3mSK0QeXI566Q](https://pan.baidu.com/s/1EhufiGeyB3mSK0QeXI566Q "https://pan.baidu.com/s/1EhufiGeyB3mSK0QeXI566Q")
 提取码：kvd6
 
-
-
 ## 【整整160篇精华论文】你几乎可以在这里找到任何CV相关论文，简直太方便了！
 
-链接：[https://pan.baidu.com/s/1ptWUjbGPfj4EmTGJAgSsJw](https://pan.baidu.com/s/1ptWUjbGPfj4EmTGJAgSsJw "https://pan.baidu.com/s/1ptWUjbGPfj4EmTGJAgSsJw")
+链接：[https://pan.baidu.com/s/1ptWUjbGPfj4EmTGJAgSsJw](https://pan.baidu.com/s/1ptWUjbGPfj4EmTGJAgSsJw)
 提取码：ntgg
 
 
@@ -46,7 +44,7 @@
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1vEfmlyo3AWDX9Qjm\_MzjGw](https://pan.baidu.com/s/1vEfmlyo3AWDX9Qjm_MzjGw "https://pan.baidu.com/s/1vEfmlyo3AWDX9Qjm_MzjGw")
+链接：[https://pan.baidu.com/s/1vEfmlyo3AWDX9Qjm_MzjGw](https://pan.baidu.com/s/1vEfmlyo3AWDX9Qjm_MzjGw)
 提取码：87ct
 
 **介绍：**
@@ -61,7 +59,7 @@
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1bCKT9FDm0gPN8fgq3hk1MQ](https://pan.baidu.com/s/1bCKT9FDm0gPN8fgq3hk1MQ "https://pan.baidu.com/s/1bCKT9FDm0gPN8fgq3hk1MQ")
+链接：[https://pan.baidu.com/s/1bCKT9FDm0gPN8fgq3hk1MQ](https://pan.baidu.com/s/1bCKT9FDm0gPN8fgq3hk1MQ)
 提取码：jydz
 
 **介绍：**
@@ -78,7 +76,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/14xHITOZpNzopMtYUy80Xdw](https://pan.baidu.com/s/14xHITOZpNzopMtYUy80Xdw "https://pan.baidu.com/s/14xHITOZpNzopMtYUy80Xdw")
+链接：[https://pan.baidu.com/s/14xHITOZpNzopMtYUy80Xdw](https://pan.baidu.com/s/14xHITOZpNzopMtYUy80Xdw)
 提取码：nq3i
 
 **介绍：**
@@ -93,7 +91,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1ZBV9pv0r3SQ\_i8JNtz3xDw](https://pan.baidu.com/s/1ZBV9pv0r3SQ_i8JNtz3xDw "https://pan.baidu.com/s/1ZBV9pv0r3SQ_i8JNtz3xDw")
+链接：[https://pan.baidu.com/s/1ZBV9pv0r3SQ_i8JNtz3xDw](https://pan.baidu.com/s/1ZBV9pv0r3SQ_i8JNtz3xDw)
 提取码：1fea
 
 **介绍：**
@@ -106,7 +104,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1Y5wYgZA6Ha-646ZTVLM5Bw](https://pan.baidu.com/s/1Y5wYgZA6Ha-646ZTVLM5Bw "https://pan.baidu.com/s/1Y5wYgZA6Ha-646ZTVLM5Bw")
+链接：[https://pan.baidu.com/s/1Y5wYgZA6Ha-646ZTVLM5Bw](https://pan.baidu.com/s/1Y5wYgZA6Ha-646ZTVLM5Bw)
 提取码：xgg6
 
 **介绍：**
@@ -121,7 +119,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/15v5hjf2Qcmqplg2ixB2ENg](https://pan.baidu.com/s/15v5hjf2Qcmqplg2ixB2ENg "https://pan.baidu.com/s/15v5hjf2Qcmqplg2ixB2ENg")
+链接：[https://pan.baidu.com/s/15v5hjf2Qcmqplg2ixB2ENg](https://pan.baidu.com/s/15v5hjf2Qcmqplg2ixB2ENg)
 提取码：308r
 
 **介绍：**
@@ -134,7 +132,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1k8brOGpVH-UcXtAQ-SOPQA](https://pan.baidu.com/s/1k8brOGpVH-UcXtAQ-SOPQA "https://pan.baidu.com/s/1k8brOGpVH-UcXtAQ-SOPQA")
+链接：[https://pan.baidu.com/s/1k8brOGpVH-UcXtAQ-SOPQA](https://pan.baidu.com/s/1k8brOGpVH-UcXtAQ-SOPQA)
 提取码：vaju
 
 **介绍：**
@@ -147,7 +145,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1pMf8lJtvasVwQKH808VDhw](https://pan.baidu.com/s/1pMf8lJtvasVwQKH808VDhw "https://pan.baidu.com/s/1pMf8lJtvasVwQKH808VDhw")
+链接：[https://pan.baidu.com/s/1pMf8lJtvasVwQKH808VDhw](https://pan.baidu.com/s/1pMf8lJtvasVwQKH808VDhw)
 提取码：hku9
 
 **介绍：**
@@ -162,7 +160,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/13yaVg9Qq12\_ke1aILBchzQ](https://pan.baidu.com/s/13yaVg9Qq12_ke1aILBchzQ "https://pan.baidu.com/s/13yaVg9Qq12_ke1aILBchzQ")
+链接：[https://pan.baidu.com/s/13yaVg9Qq12_ke1aILBchzQ](https://pan.baidu.com/s/13yaVg9Qq12_ke1aILBchzQ)
 提取码：jwir
 
 **介绍：**
@@ -175,7 +173,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1qxjOmftzfiiwlObohhx0Mg](https://pan.baidu.com/s/1qxjOmftzfiiwlObohhx0Mg "https://pan.baidu.com/s/1qxjOmftzfiiwlObohhx0Mg")
+链接：[https://pan.baidu.com/s/1qxjOmftzfiiwlObohhx0Mg](https://pan.baidu.com/s/1qxjOmftzfiiwlObohhx0Mg)
 提取码：le10
 
 **介绍：**
@@ -188,7 +186,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1-0dRJCuPXP6WNUwpT-O6WA](https://pan.baidu.com/s/1-0dRJCuPXP6WNUwpT-O6WA "https://pan.baidu.com/s/1-0dRJCuPXP6WNUwpT-O6WA")
+链接：[https://pan.baidu.com/s/1-0dRJCuPXP6WNUwpT-O6WA](https://pan.baidu.com/s/1-0dRJCuPXP6WNUwpT-O6WA)
 提取码：gaf4
 
 **介绍：**
@@ -204,7 +202,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1Q3eJlNzvYwOD4XHlMgQv7Q](https://pan.baidu.com/s/1Q3eJlNzvYwOD4XHlMgQv7Q "https://pan.baidu.com/s/1Q3eJlNzvYwOD4XHlMgQv7Q")
+链接：[https://pan.baidu.com/s/1Q3eJlNzvYwOD4XHlMgQv7Q](https://pan.baidu.com/s/1Q3eJlNzvYwOD4XHlMgQv7Q)
 提取码：p3ta
 
 **介绍：**
@@ -217,7 +215,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/1KnSoGBMjB01WmrxJt2GTLQ](https://pan.baidu.com/s/1KnSoGBMjB01WmrxJt2GTLQ "https://pan.baidu.com/s/1KnSoGBMjB01WmrxJt2GTLQ")
+链接：[https://pan.baidu.com/s/1KnSoGBMjB01WmrxJt2GTLQ](https://pan.baidu.com/s/1KnSoGBMjB01WmrxJt2GTLQ)
 提取码：xpb8
 
 **介绍：**
@@ -232,7 +230,7 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 **地址：**
 
-链接：[https://pan.baidu.com/s/13uWxowSC-aMAHmL9Zuo08g](https://pan.baidu.com/s/13uWxowSC-aMAHmL9Zuo08g "https://pan.baidu.com/s/13uWxowSC-aMAHmL9Zuo08g")
+链接：[https://pan.baidu.com/s/13uWxowSC-aMAHmL9Zuo08g](https://pan.baidu.com/s/13uWxowSC-aMAHmL9Zuo08g)
 提取码：eybg
 
 **介绍：**
@@ -241,7 +239,108 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 
 
+## Transformer
+
+### **【斯坦福新课CS25-Transformers United来啦！简直讲得太棒啦！】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1slfs5e2MAqPliY6sJ6nX9g](https://pan.baidu.com/s/1slfs5e2MAqPliY6sJ6nX9g)
+提取码：5lhc
+
+**介绍：**
+
+这是前段时间斯坦福大学上线的一门新课程【CS25-Transformers United】，主要讲解的是Transformer在机器学习、计算机视觉、自然语言处理等多个领域中的前沿应用。
+
+
+
+## 多模态
+
+### **【CMU《多模态机器学习》课程by Louis-Philippe Morency】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1v0fCFw79RTq-iY7rH4SaaQ](https://pan.baidu.com/s/1v0fCFw79RTq-iY7rH4SaaQ)
+提取码：y868
+
+**介绍：**
+
+CMU 卡内基梅隆 · 11-777 · Multimodal Machine Learning (2020) 官网：见评论区 ➤ 全套资料库：[http://blog.showmeai.tech/cmu-11-777](http://blog.showmeai.tech/cmu-11-777)
+
+
+
+## 强化学习
+
+### **【【莫烦Python】强化学习 Reinforcement Learning】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1cW5rzVUPoolBxIimBs_Uag](https://pan.baidu.com/s/1cW5rzVUPoolBxIimBs_Uag)
+提取码：jedu
+
+**介绍：**
+
+强化学习是机器学习大家族中的一大类, 使用强化学习能够让机器学着如何在环境中拿到高分, 表现出优秀的成绩. Code: [https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+
+
+
+
+
 ## 项目实战
+
+### **【17小时我居然就学会了kaggle上最适合新手的十大项目！大佬爆肝录制机器学习算法教程（机器学习实战 深度学习实战 NLP 人脸识别 猫狗识别）】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1Nfp06qTjGGzp9IKqh9A-FA](https://pan.baidu.com/s/1Nfp06qTjGGzp9IKqh9A-FA)
+提取码：tyy1
+
+**介绍：**
+
+适用人群
+①准备毕业论文的学生
+②准备跳槽，正在找工作的AI算法工程师等
+③自学和准备转行到AI领域的人
+④想巩固AI核心知识，查漏补缺的人
+
+
+
+### **【Pytorch官方中文实战教程—基于Pytorch搭建聊天机器人，入门Pytorch最好的练手项目！】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1WZlP0jvz-wvzDlxRi8p3rg](https://pan.baidu.com/s/1WZlP0jvz-wvzDlxRi8p3rg)
+提取码：07w7
+
+**介绍：**
+
+Pytorch官方中文实战教程—基于Pytorch搭建聊天机器人，入门Pytorch最好的练手项目！
+
+
+
+### **【YOLOV5代码逐行讲解！最适合新手的【YOLOV5零基础】教程！手把手带你基于Pytorch搭建YOLOV5自己的目标检测平台】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1fxijxNk27lsj2j20eDsDaQ](https://pan.baidu.com/s/1fxijxNk27lsj2j20eDsDaQ)
+提取码：l1js
+
+**介绍：**
+
+YOLOV5代码逐行讲解！最适合新手的【YOLOV5零基础】教程！手把手带你基于Pytorch搭建YOLOV5自己的目标检测平台
+
+
+
+### **【最适合练手的Pytorch计算机视觉实战项目：Cifar10图像分类 COCO图像分割 Pascal VOC目标检测全详解，学完就能跑通！】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1MTn0JTAKeSMFPvxgBUO1RA](https://pan.baidu.com/s/1MTn0JTAKeSMFPvxgBUO1RA)
+提取码：oy9g
+
+**介绍：**
+
+最适合练手的Pytorch计算机视觉实战项目：Cifar10图像分类 COCO图像分割 Pascal VOC目标检测全详解，学完就能跑通！
 
 
 
@@ -252,6 +351,4 @@ PyTorch入门到实战教程！草履虫都能看懂，看不懂你打我！！�
 
 
 **介绍：**
-
-
 
