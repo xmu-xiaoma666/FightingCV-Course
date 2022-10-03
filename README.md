@@ -15,7 +15,7 @@
 
 | FightingCV公众号 | 小助手微信 （备注【**公司/学校+方向+ID**】）|
 :-------------------------:|:-------------------------:
-<img src='./image/FightingCV.jpg' width='200px'>  |  <img src='./image/xiaozhushou.jpg' width='200px'> 
+<img src='./image/FightingCV.png' width='200px'>  |  <img src='./image/xiaozhushou.png' width='200px'> 
 
 
 好了，废话不多说，开始今天的分享！
