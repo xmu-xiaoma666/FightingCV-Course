@@ -38,7 +38,6 @@
 
 
 
-
 # 【视频教程】
 
 ## Python
@@ -289,25 +288,91 @@ CMU 卡内基梅隆 · 11-777 · Multimodal Machine Learning (2020) 官网：见
 
 ## 目标检测
 
+### **【我愿称之为最强！室友凭借这套【深度学习目标检测】算法教程，成功拿到讯飞检测算法工程师offer！清华大佬92集带你吃透目标检测算法全系列！】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1ucxTCt8tN6smWAI5GRTwUQ](https://pan.baidu.com/s/1ucxTCt8tN6smWAI5GRTwUQ)
+提取码：zlmv
+
+**介绍：**
+
+我愿称之为最强！室友凭借这套【深度学习目标检测】算法教程，成功拿到讯飞检测算法工程师offer！清华大佬92集带你吃透目标检测算法全系列！
+
 
 
 ## 自动驾驶
+
+### **【自动驾驶算法工程师课程】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1aaOlGawkDMnVNYgvMNGQLQ](https://pan.baidu.com/s/1aaOlGawkDMnVNYgvMNGQLQ)
+提取码：7ln8
+
+**介绍：**
+
+自动驾驶算法工程师课程
+
+
+
+
+
+### **【【中文字幕】Udacity无人驾驶工程师，全站质量最高的自动驾驶课程，自动驾驶学习必看，搭配无人驾驶入门效果更佳！】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1A8tHrepHQUr2cXkd-4aq0A](https://pan.baidu.com/s/1A8tHrepHQUr2cXkd-4aq0A)
+提取码：lnr4
+
+**介绍：**
+
+【中文字幕】Udacity无人驾驶工程师，全站质量最高的自动驾驶课程，自动驾驶学习必看，搭配无人驾驶入门效果更佳！
+
+
+
+## OpenCV
+
+### **【【不要再看那些过时的OpenCV老教程了】2022巨献，OpenCV零基础小白最新版全套教程(人工智能机器视觉教程)】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1zHFKGXEeSXAd91W-2jnbTQ](https://pan.baidu.com/s/1zHFKGXEeSXAd91W-2jnbTQ)
+提取码：czae
+
+**介绍：**
+
+【不要再看那些过时的OpenCV老教程了】2022巨献，OpenCV零基础小白最新版全套教程(人工智能机器视觉教程)
+
+
+
+## GAN
+
+### **【最强【GAN对抗生成网络】教程，论文+原理+实战全方面解读，建议先收藏观看！】**
+
+**地址：**
+
+链接：[https://pan.baidu.com/s/1T8qUV2J2rG8u-oC1WnRy7w](https://pan.baidu.com/s/1T8qUV2J2rG8u-oC1WnRy7w)
+提取码：qcad
+
+**介绍：**
+
+最强【GAN对抗生成网络】教程，论文+原理+实战全方面解读，建议先收藏观看！
 
 
 
 ## 三维重建
 
-
-
-### **【课程名字】**
+### **【2022最好最全的【三维重建】课程！！！北邮教授竟然把三维重建讲的如此通俗易懂，学不会退网下架！！！】**
 
 **地址：**
 
-
+链接：[https://pan.baidu.com/s/1Rn8gnGNHfKMquDb6i8UsWQ](https://pan.baidu.com/s/1Rn8gnGNHfKMquDb6i8UsWQ)
+提取码：4zqk
 
 **介绍：**
 
-
+2022最好最全的【三维重建】课程！！！北邮教授竟然把三维重建讲的如此通俗易懂，学不会退网下架！！！
 
 
 
@@ -379,3 +444,4 @@ YOLOV5代码逐行讲解！最适合新手的【YOLOV5零基础】教程！手�
 **介绍：**
 
 全网最通俗易懂的深度学习项目部署实战，是个人都学会了！
+
